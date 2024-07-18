@@ -1,0 +1,15 @@
+The Data given in CSV is about the Repayment of different loans.
+
+Number of Records: 5000
+Time Period: 2023-05 to 2024-07
+Loan Types: Auto, Personal and Home
+
+Average Amount of Loan is 54000
+Highest Outstanding amount is 102851.97
+
+We are calculating good repayment history based on there Repayments done, if done with 45 days of previous EMI, we consider it as good repayment: 
+There are 1400 people with good history!
+
+Average duration of a Loan: 10 EMI's
+Personal Loan have highest repayment rate
+while Auto Loans have Lowest
